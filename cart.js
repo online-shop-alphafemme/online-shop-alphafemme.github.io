@@ -1,4 +1,4 @@
 function getAdCart()
 {
-  return "http://kr5yj.doctordays.com/l";
+  return "http://k8q5w.doctordays.com/l";
 }
